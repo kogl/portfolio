@@ -6,6 +6,7 @@
           mdi-menu
         </v-icon>
         <h1 class="white--text">Oskar Ljungdahl</h1>
+		<h5>frontedutvecklare</h5>
       </v-col>
     </v-col>
     <!-- mobil slut -->
