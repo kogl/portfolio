@@ -12,7 +12,7 @@
     <v-col
       class="cyan darken-4 justify-center align-center d-sm-none d-md-flex d-flex pa-0 ma-0"
     >
-      <p>laptop desktop</p>
+      <p>laptop desktop!</p>
     </v-col>
   </v-col>
 </template>
