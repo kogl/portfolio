@@ -1,5 +1,10 @@
 <template>
   <v-app>
+    <v-col class="green align-center d-flex justify-end menu">
+      <v-icon class="white--text" size="32">
+        mdi-menu
+      </v-icon>
+    </v-col>
     <v-main>
       <router-view />
     </v-main>
@@ -13,7 +18,6 @@ export default {
   data: () => ({
     //
   }),
-  
 };
 </script>
 <style scoped>
@@ -23,4 +27,6 @@ export default {
   padding: 0;
   box-sizing: border-box;
 }
+
+
 </style>
